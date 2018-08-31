@@ -1,17 +1,21 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-se crea la carpeta .git y se hace para crear el track de git
+se crea la carpeta .git (un repositorio vacio) y se hace para crear el track de git
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-
+the staggin area is where the commit will be make.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+por que se agrega solo los archivos que deseo tener en mi commit logico.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+cuando estoy realizando modificaciones a la logica del programa o modificaciones importantes
 
 How do the diagrams help you visualize the branch structure?
 
@@ -20,3 +24,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+git realiza supuestos para intentar realizar el merge, en cambio si se hace manual se pueden tomar mejores decisiones a la hora de
+realizar los ajustes necesarios.

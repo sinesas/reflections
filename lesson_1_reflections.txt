@@ -1,1 +1,37 @@
-Este es un contenido general para el archivo 1
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Por que al comparar los cambios se puede determinar que código puede estar fallando.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Por que se pueden realizar mejores a ciertos desarrollos, funciones o elementos lógicos que dan valor
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Los pros es que se compromete exactamente cuando uno quiere y lo que quiere, evitando subir código incecesario o con errores.
+    La contra sería que por algún fallo se dañara la información y al no estar guardada se pudiera perder. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    La ventaja es que al guardar muchos archivos en un commit se están relacionando todos los archivos que tuvieron cambio y agregan valor
+	o nueva funcionalidad
+
+How can you use the commands git log and git diff to view the history of files?
+
+    con git log se pueden observar todos los commits realizados y de esta forma obtener los commits que deseamos comparar.
+    con git diff podemos observar que cambios tuvo un commit respecto a otro, o la working área y la stage área.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Si estamos experimentando o cambiando código y este llegara a no ser funcional o no ser lo que se esperaba, entonces se puede revertir
+fácilmente todos los cambios, regresar a una versión estable y sin fallos, en vez de tener que realizar todos estos cambios manualmente.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    En el trabajo se usa git como repositorio, entonces usaré allí los conocimientos adquiridos.
