@@ -4,17 +4,19 @@ cuando trabajan varias personas en el mismo proyecto o se quiere tener un respal
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Para evitar muchas conexiones a los servidores o por si se realizan 
+muchos trabajos localmente y luego se comprometen
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Los forks son parte de github, es una copia de un branch dentro de los mismos servidores de github, la clonación se da desde un repositorio
+remoto a local o local y local, una rama es una división lógica 0 o más commits.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    para poder realizar comparaciones con las ramas locales y saber si estamos más actualizados o existen diferencias entre los commits
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
